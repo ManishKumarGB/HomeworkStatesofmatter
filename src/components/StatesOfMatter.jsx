@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import ice from '../assets/ice.jpg'
 import water from '../assets/water.jpg'
 import watervapour from '../assets/watervapour.jpg'
-'
+
 
 const StatesOfMatter = () => {
     
